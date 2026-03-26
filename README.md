@@ -1,4 +1,4 @@
-# WhatsApp Baileys Badzz
+# WhatsApp Baileys Yanzzuul
 
 <p align="center">
   <img src="https://g.top4top.io/p_3676rfdq11.jpg" alt="Thumbnail" />
@@ -88,7 +88,7 @@ await sock.sendMessage(target, {
             degreesLongitude: 0, 
             name: "rowrrrr" 
         }, 
-        joinLink: "https://call.whatsapp.com/video/badzzne2", 
+        joinLink: "Gak ada", 
         startTime: "1763019000", 
         endTime: "1763026200", 
         extraGuestsAllowed: false 
@@ -125,7 +125,7 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @badzzne2 ",
+        footer: "telegram: @Yanzzuul ",
         buttons: [
             {
                 name: "cta_copy",
@@ -148,13 +148,13 @@ await sock.sendMessage(target, {
     interactiveMessage: {      
         header: "Hello World",
         title: "Hello World",      
-        footer: "telegram: @badzzne2",      
+        footer: "telegram: @Yanzzuul",      
         image: { url: "https://example.com/image.jpg" },      
         nativeFlowMessage: {        
             messageParamsJson: JSON.stringify({          
                 limited_time_offer: {            
                     text: "idk hummmm?",            
-                    url: "https://t.me/badzzne2",            
+                    url: "https://t.me/Yanzzuul",            
                     copy_code: "yume",            
                     expiration_time: Date.now() * 999          
                 },          
@@ -195,7 +195,7 @@ await sock.sendMessage(target, {
                                 highlight_label: "label",                  
                                 rows: [                    
                                     {                      
-                                        title: "@badzzne2",                      
+                                        title: "@Yanzzuul",                      
                                         description: "love you",                      
                                         id: "row_2"                    
                                     }                  
@@ -227,7 +227,7 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @badzzne2",
+        footer: "telegram: @Yanzzuul",
         image: { url: "https://example.com/image.jpg" },
         buttons: [
             {
@@ -280,10 +280,10 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @badzzne2",
+        footer: "telegram: @Yanzzuul",
         document: fs.readFileSync("./package.json"),
         mimetype: "application/pdf",
-        fileName: "badzzne2.pdf",
+        fileName: "Yanzzuul.pdf",
         jpegThumbnail: fs.readFileSync("./document.jpeg"),
         contextInfo: {
             mentionedJid: [target],
@@ -296,7 +296,7 @@ await sock.sendMessage(target, {
             mediaType: 3,
             thumbnailUrl: "https://example.com/image.jpg",
             mediaUrl: " X ",
-            sourceUrl: "https://t.me/badzzne2",
+            sourceUrl: "https://t.me/Yanzzuul",
             showAdAttribution: true,
             renderLargerThumbnail: false         
         },
@@ -305,8 +305,8 @@ await sock.sendMessage(target, {
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                     display_text: "Telegram",
-                    url: "https://t.me/badzzne2",
-                    merchant_url: "https://t.me/badzzne2"
+                    url: "https://t.me/Yanzzuul",
+                    merchant_url: "https://t.me/Yanzzuul"
                 })
             }
         ]
@@ -325,15 +325,15 @@ await sock.sendMessage(target, {
         footer: "telegram: @badzzne2",
         document: fs.readFileSync("./package.json"),
         mimetype: "application/pdf",
-        fileName: "badzzne2.pdf",
+        fileName: "Yanzzuul.pdf",
         jpegThumbnail: fs.readFileSync("./document.jpeg"),
         buttons: [
             {
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                     display_text: "Telegram",
-                    url: "https://t.me/badzzne2",
-                    merchant_url: "https://t.me/badzzne2"
+                    url: "https://t.me/Yanzzuul",
+                    merchant_url: "https://t.me/Yanzzuul"
                 })
             }
         ]
