@@ -1,7 +1,7 @@
 {
-    "name": "@badzz88/baileys",
-    "version": "7.0.0",
-    "description": "WhatsApp API Modification By Badzz88",
+    "name": "@yanzvxc0031/baileys",
+    "version": "0.0",
+    "description": "WhatsApp API Modification By yanzvxc0031",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -12,12 +12,12 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://github.com/Badzz88/baileys",
+    "homepage": "https://github.com/yanzvxc0031/baileys",
     "repository": {
-        "url": "https://github.com/Badzz88/baileys"
+        "url": "https://github.com/yanzvxc0031/baileys"
     },
     "license": "MIT",
-    "author": "B4DZZN3",
+    "author": "Yanzzuul",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -52,7 +52,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:Badzz88/libsignal-node",
+        "libsignal": "github:yanzvxc0031/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
@@ -62,7 +62,7 @@
         "ws": "^8.13.0"
     },
     "devDependencies": {
-        "@adiwajshing/eslint-config": "github:Badzz88/eslint-config",
+        "@adiwajshing/eslint-config": "github:yanzvxc0031/eslint-config",
         "@types/got": "^9.6.11",
         "@types/jest": "^27.5.1",
         "@types/node": "^16.0.0",
